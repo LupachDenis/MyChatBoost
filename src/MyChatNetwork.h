@@ -7,6 +7,7 @@
 #include <boost/cstdint.hpp>
 #include <memory>
 #include <vector>
+#include <list>
 
 #define HELLO_PORT 22001
 
